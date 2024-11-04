@@ -672,3 +672,17 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+Additional Permissions under GNU General Public License v3.0
+
+1. No Competing Clubs or Derivative Projects:
+
+This license prohibits the use, reproduction, or distribution of any content from this project (maps, images, custom assets, descriptions) to create a Trackmania club, organization, or similar entity that competes directly with the original project.
+
+2. No Direct Copies:
+
+Any reproduction of this project’s content or structure, with the intent to create a similar experience in Trackmania, is prohibited.
+
+3. Attribution Requirement:
+
+If this project or any part of it is used for non-competing purposes, clear attribution must be given to the original creator.
