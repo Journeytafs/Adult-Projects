@@ -1,16 +1,12 @@
 
-Branding
-
 616x276 PNG/BC1
 icon First visible image of club
-First Done
 
 712x928 PNG/BC1
 used in club list
 
 1920x1080 PNG/BC1
 the image behind your club details page
-
 
 Stadium
 
@@ -30,12 +26,9 @@ Stadium banner under big screen 16x1
 2048x256 PNG/BC1
 stadium bleachers,
 
-
+Abrrevs:  
 Formats: PNG{png, jpeg, dds}
 Other: BC1{bc1/dxt1 with mipmaps}, BC3{bc3/dxt5 with mipmaps}
 
-Club Description full name, what the campaigns are etc. 3 lines, 40 to 50 words.
 
-News 1 small 1 big pic, expanded description of whos what nad were.
-
-Icons for road and all campaigns
+Image Per Campaign, and one for Gears

@@ -1,6 +1,3 @@
-(a section on the pros and cons of starting with the hardest maps)
-
-
 # **Ultimate Campaign (Campaign 0)** #
 The final and hardest campaign, featuring intense challenges across various styles. Includes:
 
@@ -22,6 +19,7 @@ The final and hardest campaign, featuring intense challenges across various styl
 * **Bragging Rights:** Completing Campaign 0 early on can be a major personal accomplishment and a way to stand out in the community.
 
 **Cons of Starting with Campaign 0:**
+
 * **Steep Learning Curve:** Jumping straight into the hardest maps can be overwhelming, especially without a solid foundation in Trackmania basics.
 
 * **Potential Frustration:** The high difficulty level might be discouraging for players who prefer a gradual progression.
