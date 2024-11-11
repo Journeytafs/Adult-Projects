@@ -1,4 +1,32 @@
-Breakdown of Trackmania tricks and techniques.
+Tricks and Techniques Section
+Each campaign focuses on specific techniques to master, making it easy for players to follow a structured progression. Here’s the detailed breakdown:
+This section will serve as a reference for players to refine specific skills based on the campaign they’re in.
+
+
+
+
+
+
+
+Airtime Reduction: Techniques to control airtime, including diagonal flight and air skips.
+
+Air Control: Basics of braking to adjust angle, left-right rotation, and reducing airtime before jumps.
+
+SpeedSlide: For speeds above 600 in FullSpeed maps, requiring a mix of brake tapping and steering.
+
+Quantum Drift: Specialized for dirt, grass, plastic, and slippery surfaces, with advanced setup lines for simultaneous steering and speed sliding.
+
+Galaxy Drift: A rare full-speed drift technique involving curved momentum control.
+
+BugSlide: Known for its tricky mechanics, often requiring sharp entry angles.
+
+S4D: Brake-tap speed slides used in FullSpeed maps, typically covering the 430-600 speed range.
+
+Unique Styles and Surface-Specific Techniques:
+
+Ice: Gorilla Grip, IceSD, 90 Degree Shield.
+
+Nascar: Releasing and Banking, to my knowledge, High Speed Control
 
 # Techniques: Trackmania Tricks & Techniques #
 

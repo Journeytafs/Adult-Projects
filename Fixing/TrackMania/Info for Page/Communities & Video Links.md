@@ -4,7 +4,6 @@ Video Links: Curated video gems from the Trackmania community, highlighting key 
 
 Communities: Centralized links to various Trackmania communities (e.g., Ice Community, Fullspeed, SpeedTech), creating a one-stop resource for player connection and shared expertise.
 
-
 # Communities & Video Links #
 This section brings together essential community resources and video tutorials for Trackmania enthusiasts. Here’s a starting outline:
 

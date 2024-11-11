@@ -14,3 +14,8 @@ Positioned at the bottom of the page, explaining the concept and purpose of Mile
 
 4. **Bonus Section – Why Campaign 0 First?**
 A section discussing the pros and cons of tackling the Ultimate Campaign (Campaign 0) initially, aimed at players looking for an intense challenge.
+
+rejected maps
+
+authotrs
+trick tips techniques

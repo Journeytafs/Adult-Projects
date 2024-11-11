@@ -1,6 +1,6 @@
-#an intro to progression structure, useful for campaign overviews#
 
 # Campaigns #
+
 ## Main Campaign ##
 Each campaign is capped at 25 maps, divided into two parts:
 
