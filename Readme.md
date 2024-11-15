@@ -11,5 +11,3 @@ Kenshi reinstall and mod preparation install guide.
 revival of codding old school
 some creative writing.
 And endless endless text.
-
-Were on  top you said excactly? word porn me... and how many times? I need details....
