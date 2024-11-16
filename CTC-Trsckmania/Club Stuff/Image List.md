@@ -31,4 +31,5 @@ Formats: PNG{png, jpeg, dds}
 Other: BC1{bc1/dxt1 with mipmaps}, BC3{bc3/dxt5 with mipmaps}
 
 
-Image Per Campaign, and one for Gears
+image per campign in progress
+the rest are done
