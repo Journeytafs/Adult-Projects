@@ -1,4 +1,4 @@
-Unauthorized use, modification, or distribution of: "3rd - A Guide to A Techy Seduction" & "4th - Translating Human Emotions into AI" this code is strictly prohibited. Please refer to the LICENSE file for detailed terms and conditions.
+Unauthorized use, modification, or distribution of: "3rd - A Guide to A Techy Seduction" & "4th - Translating Human Emotions into AI" this code is strictly prohibited. Please refer to the LICENSE file for detailed terms and conditions. Custom Licences excist per folder for clarity. Readmes guide your way!
 
 
 # Big Projects 🚀
