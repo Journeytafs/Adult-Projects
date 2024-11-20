@@ -1,3 +1,6 @@
+Unauthorized use, modification, or distribution of: "3rd - A Guide to A Techy Seduction" & "4th - Translating Human Emotions into AI" this code is strictly prohibited. Please refer to the LICENSE file for detailed terms and conditions.
+
+
 # Big Projects 🚀
 
 Welcome to the epicenter of creativity, innovation, and collaboration—where big dreams become reality. 🌟
