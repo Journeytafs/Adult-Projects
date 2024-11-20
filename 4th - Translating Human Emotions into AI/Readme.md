@@ -1,7 +1,14 @@
-Unauthorized use, modification, or distribution of this code is strictly prohibited. Please refer to the LICENSE file for detailed terms and conditions.
+# Translating Human Emotions into AI
 
+## Usage Restrictions
+All materials in this folder are protected under a custom license. Misuse of this work, including unauthorized use, redistribution, or derivative works, is strictly prohibited.
 
+## Summary of Terms
+- **No standalone or competitive use allowed**.
+- **Significant enhancements require explicit permission and acknowledgment**.
+- **Attribution and notification are mandatory** for any authorized use.
 
+Refer to the LICENSE file for detailed terms.
 
 
 
